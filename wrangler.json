@@ -1,0 +1,5 @@
+{
+  "name": "solara-worker",
+  "compatibility_date": "2025-11-27",
+  "main": "functions/_middleware.ts"
+}
